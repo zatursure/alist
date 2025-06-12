@@ -41,6 +41,12 @@
 
 [English](./README.md) | 中文 | [日本語](./README_ja.md) | [Contributing](./CONTRIBUTING.md) | [CODE_OF_CONDUCT](./CODE_OF_CONDUCT.md)
 
+## 一些事情
+
+该项目旨在防止某些人的恶意代码对所有人构成威胁
+谢谢您，xhofe，以及每一位社区贡献者
+alist始终属于 xhofe 以及每一位贡献者
+
 ## 功能
 
 - [x] 多种存储
