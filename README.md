@@ -41,6 +41,12 @@
 
 English | [中文](./README_cn.md) | [日本語](./README_ja.md) | [Contributing](./CONTRIBUTING.md) | [CODE_OF_CONDUCT](./CODE_OF_CONDUCT.md)
 
+## Something
+
+This project is designed to prevent malicious code from certain individuals from threatening everyone.
+Thank you,xhofe,and every community contributor.
+Alist always belongs to xhofe and every contributor.
+
 ## Features
 
 - [x] Multiple storages
