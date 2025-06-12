@@ -41,6 +41,12 @@
 
 [English](./README.md) | [中文](./README_cn.md) | 日本語 | [Contributing](./CONTRIBUTING.md) | [CODE_OF_CONDUCT](./CODE_OF_CONDUCT.md)
 
+## 何かがあります
+
+このプロジェクトは、特定の個人からの悪意のあるコードがすべての人を脅かすことを防ぐために設計されています。
+xhofe、そしてすべてのコミュニティ貢献者に感謝します。
+alistは常にxhofeとすべての貢献者に属しています。
+
 ## 特徴
 
 - [x] マルチストレージ
